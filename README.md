@@ -1,5 +1,3 @@
-# Solinsploits
-
 ![Banner](https://github.com/Solinsploits/Solinsploits/blob/main/assets/Solinsploits.png)
 
 Welcome to **Solinsploits**! This repository provides a collection of powerful Roblox executors and scripts designed to enhance your gaming experience. Whether you're new to scripting or an experienced developer, Solinsploits offers tools to help you unlock the full potential of Roblox gameplay.
